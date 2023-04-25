@@ -1,4 +1,6 @@
-package com.bnpparibas.epita.java.api.collection;
+package com.bnpparibas.epita.java.api.collectionvoyageur;
+
+import com.bnpparibas.epita.java.api.collection.Classe;
 
 import java.util.PriorityQueue;
 

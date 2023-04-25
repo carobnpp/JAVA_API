@@ -1,14 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d67626c0-5381-47ec-8295-25fec8791d80" name="Changes" comment="" />
+    <list default="true" id="d67626c0-5381-47ec-8295-25fec8791d80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA_API.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnpparibas/epita/java/api/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnpparibas/epita/java/api/collection/Classe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnpparibas/epita/java/api/collection/ListeChainecaractere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnpparibas/epita/java/api/collection/Maincollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnpparibas/epita/java/api/collectionvoyageur/ComparateurVoyageur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnpparibas/epita/java/api/collectionvoyageur/Mainvoyageur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnpparibas/epita/java/api/collectionvoyageur/Voyageur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnpparibas/epita/java/api/enumeration/JourdelaSemaine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnpparibas/epita/java/api/enumeration/MainEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnpparibas/epita/java/api/files/MainChanson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnpparibas/epita/java/api/files/paroles.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnpparibas/epita/java/api/string/ChaineDeCaractere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnpparibas/epita/java/api/string/MainString.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Nak2gW7wCc8q0hgctyP7ccBbS9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +55,74 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/clamb/Desktop/test_JAVA/test_MAVEN",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.MainChanson">
+    <configuration name="MainChanson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bnpparibas.epita.java.api.files.MainChanson" />
+      <module name="JAVA_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bnpparibas.epita.java.api.files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bnpparibas.epita.java.api.string.MainString" />
+      <module name="JAVA_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bnpparibas.epita.java.api.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maincollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bnpparibas.epita.java.api.collection.Maincollection" />
+      <module name="JAVA_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bnpparibas.epita.java.api.collectionvoyageur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mainvoyageur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bnpparibas.epita.java.api.collectionvoyageur.Mainvoyageur" />
+      <module name="JAVA_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bnpparibas.epita.java.api.collectionvoyageur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainChanson" />
+        <item itemvalue="Application.Mainvoyageur" />
+        <item itemvalue="Application.Maincollection" />
+        <item itemvalue="Application.MainString" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
